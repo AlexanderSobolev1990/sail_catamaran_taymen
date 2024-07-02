@@ -10,3 +10,9 @@
 <center><img src="jpg/Drawing views4.JPG" width="1000px" /></center>
 <center><img src="jpg/Drawing views5.JPG" width="1000px" /></center>
 <center><img src="jpg/Drawing views6.JPG" width="1000px" /></center>
+<center><img src="jpg/Drawing views7.JPG" width="1000px" /></center>
+
+<center><img src="jpg/Cut.JPG" width="1000px" /></center>
+<center><img src="jpg/Grot.JPG" width="1000px" /></center>
+<center><img src="jpg/Grot views1.JPG" width="1000px" /></center>
+<center><img src="jpg/Grot views2.JPG" width="1000px" /></center>
